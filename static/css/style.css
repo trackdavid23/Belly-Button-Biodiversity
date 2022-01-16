@@ -1,0 +1,24 @@
+.jumbotron {
+    background-image: url("../images/belly.jpeg");
+    object-fit: cover;
+    width: 50px;
+    height: 400px;
+    color: white;
+	font: Tahoma, Geneva, sans-serif;
+	font-size: 64px;
+    color: white;
+    text-shadow:
+    /* Outline */
+    -1px -1px 0 white,
+    1px -1px 0 white,
+    -1px 1px 0 white,
+    1px 1px 0 white,  
+    -2px 0 0 white,
+    2px 0 0 white,
+    0 2px 0 white,
+    0 -2px 0 white;
+}
+
+body {
+  background-color: lightgoldenrodyellow;
+}
